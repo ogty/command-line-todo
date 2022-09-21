@@ -1,5 +1,7 @@
 <h1 align="center">Command Line Todo</h1>
 
+[inquirer](https://github.com/SBoudrias/Inquirer.js)
+
 ```zsh
 $ npm install inquirer
 ```
